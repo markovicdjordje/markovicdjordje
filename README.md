@@ -1,5 +1,3 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31q7qiygljoar6rvntajrznqj7p4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false)](https://github.com/kittinan/spotify-github-profile)
