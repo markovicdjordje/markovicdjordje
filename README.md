@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Djordje&fontSize=50)
 
-<h3 align="center">A passionate developer</h3>
+<!--<h3 align="center">A passionate developer</h3>-->
 
 - 🌱 I’m currently studying at **FTN NS**
 
